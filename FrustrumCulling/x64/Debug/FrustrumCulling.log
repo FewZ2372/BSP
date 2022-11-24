@@ -1,0 +1,21 @@
+﻿  FrustrumCulling.cpp
+FrustrumCulling.obj : error LNK2019: símbolo externo InitWindow sin resolver al que se hace referencia en la función main
+FrustrumCulling.obj : error LNK2019: símbolo externo WindowShouldClose sin resolver al que se hace referencia en la función main
+FrustrumCulling.obj : error LNK2019: símbolo externo ClearBackground sin resolver al que se hace referencia en la función main
+FrustrumCulling.obj : error LNK2019: símbolo externo BeginDrawing sin resolver al que se hace referencia en la función main
+FrustrumCulling.obj : error LNK2019: símbolo externo EndDrawing sin resolver al que se hace referencia en la función main
+FrustrumCulling.obj : error LNK2019: símbolo externo BeginMode3D sin resolver al que se hace referencia en la función main
+FrustrumCulling.obj : error LNK2019: símbolo externo EndMode3D sin resolver al que se hace referencia en la función main
+FrustrumCulling.obj : error LNK2019: símbolo externo SetTargetFPS sin resolver al que se hace referencia en la función main
+FrustrumCulling.obj : error LNK2019: símbolo externo IsKeyDown sin resolver al que se hace referencia en la función main
+FrustrumCulling.obj : error LNK2019: símbolo externo SetCameraMode sin resolver al que se hace referencia en la función main
+FrustrumCulling.obj : error LNK2019: símbolo externo UpdateCamera sin resolver al que se hace referencia en la función main
+FrustrumCulling.obj : error LNK2019: símbolo externo DrawRectangle sin resolver al que se hace referencia en la función main
+FrustrumCulling.obj : error LNK2019: símbolo externo DrawRectangleLines sin resolver al que se hace referencia en la función main
+FrustrumCulling.obj : error LNK2019: símbolo externo Fade sin resolver al que se hace referencia en la función main
+FrustrumCulling.obj : error LNK2019: símbolo externo DrawText sin resolver al que se hace referencia en la función main
+FrustrumCulling.obj : error LNK2019: símbolo externo DrawCube sin resolver al que se hace referencia en la función main
+FrustrumCulling.obj : error LNK2019: símbolo externo DrawCubeWires sin resolver al que se hace referencia en la función main
+FrustrumCulling.obj : error LNK2019: símbolo externo DrawGrid sin resolver al que se hace referencia en la función main
+E:\Visual Studio Proyects\FrustrumCulling\lib\raylib.lib : warning LNK4272: el tipo de máquina de biblioteca 'x86' está en conflicto con el tipo de máquina de destino 'x64'
+E:\Visual Studio Proyects\FrustrumCulling\x64\Debug\FrustrumCulling.exe : fatal error LNK1120: 18 externos sin resolver
